@@ -24,3 +24,7 @@ class Solution {
         return longestSeq;
     }
 }
+
+
+Time - o(n)
+Space- o(n)

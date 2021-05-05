@@ -28,3 +28,5 @@ class Solution {
     }
 }
 
+Time : o(n)
+    Space : o(1)
